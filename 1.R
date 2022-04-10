@@ -4,3 +4,4 @@ dgeom(3, 0.2)
 
 #1b mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
 #geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
+mean(rgeom(10000,0.2)==3)
