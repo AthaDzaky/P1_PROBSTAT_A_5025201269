@@ -21,9 +21,26 @@ Gambarkan grafik histogram berdasarkan kasus tersebut.
 ![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/2b.png "2b") 
 ## 2c
 Nilai Rataan (μ) dan Varian ( ) dari σ² Distribusi Binomial.  
-![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/2c.png "2c") 
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/2c.png "2c")  
 
 # Soal No 3  
+Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis
+4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)  
+
+## 3a  
+Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?  
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/3a.png "3a")  
+
+## 3b  
+simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama
+setahun (n = 365)  
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/3b.png "3b")  
+
+## 3c
+dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan  
+
+## 3d  
+
 
 # Soal No 4  
 
