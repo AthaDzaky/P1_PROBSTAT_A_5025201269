@@ -17,6 +17,16 @@ mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribu
 geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )  
 ![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1b.png "1b")  
 
+## 1c
+Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?  
+
+## 1d  
+Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama  
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1d.png "1d") 
+## 1e  
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1e.png "1e") 
+
 # Soal No 2  
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :  
 ## 2a
@@ -48,8 +58,3 @@ dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
 ## 3d  
 
 
-# Soal No 4  
-
-# Soal No 5  
-
-# Soal No 6  
