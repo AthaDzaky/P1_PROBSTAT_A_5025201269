@@ -19,7 +19,8 @@ geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
 
 ## 1c
 Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?  
-
+dapat disimpulkan bahwa hasil dari variabel tetap dan variabel acak berbeda.   
+variabel tetap pada 1a diperoleh hasil 0.1024 sedangkan variabel random pada 1b diperoleh hasul 0.0093  
 ## 1d  
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama  
 ![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1d.png "1d") 
