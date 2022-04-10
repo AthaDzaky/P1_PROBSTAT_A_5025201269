@@ -10,6 +10,12 @@ seseorang yang menghadiri acara vaksinasi sebelumnya.
 Berapa peluang penyurvei bertemu x = 3 orang yang tidak menghadiri acara vaksinasi
 sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaksinasi ?
 (distribusi Geometrik)  
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1a.png "1a") 
+
+## 1b  
+mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
+geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )  
+![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1b.png "1b")  
 
 # Soal No 2  
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :  
