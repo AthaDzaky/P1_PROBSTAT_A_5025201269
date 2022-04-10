@@ -23,6 +23,8 @@ bayi %>% dplyr::summarize(enam_bayi= sum(bayi$data == 6) / n())
 
 #3c dan Bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
 #dari hasil poin a dan b terdapat perbedaan, hasil simulasi menunjukkan bahwa peluang kelahiran 6 bayi akan lahir dirumah sakit ini selama setahun sebesar 0.1150685 sedangkan peluang bahwa 6 bayi akan lahir dirumah sakit ini besok adalah 0.1281201 
-
+lambda = 4.5
+varians = lambda
+varians
 #3d Nilai rataan dan varian dari Distribusi Poisson
 
