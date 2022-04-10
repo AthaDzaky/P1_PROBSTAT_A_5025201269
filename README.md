@@ -25,7 +25,7 @@ variabel tetap pada 1a diperoleh hasil 0.1024 sedangkan variabel random pada 1b 
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama  
 ![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1d.png "1d") 
 ## 1e  
-Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.  
 ![alt text](https://github.com/AthaDzaky/P1_PROBSTAT_A_5025201269/blob/main/img/1e.png "1e") 
 
 # Soal No 2  
